@@ -9,11 +9,11 @@ Chippy makes Claude Code better at delegation. When you need to offload work to 
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USER/chippy ~/.claude/skills/chippy
+git clone https://github.com/Bambushu/chippy ~/.claude/skills/chippy
 cp ~/.claude/skills/chippy/commands/chip.md ~/.claude/commands/chip.md
 ```
 
-Requires Claude Code 2.x. `YOUR_USER` is a placeholder the project maintainer should update. No dependencies. Pure prompt engineering, all markdown, no code, no runtime.
+Requires Claude Code 2.x. No dependencies. Pure prompt engineering, all markdown, no code, no runtime.
 
 ## Use it
 
