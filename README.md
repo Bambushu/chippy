@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Chippy" width="520">
+  <img src="logo.svg" alt="Chippy" width="420">
 </p>
 
 # Chippy
